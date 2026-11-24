@@ -52,3 +52,12 @@ Base v0.5 preservada sem alteração. Nenhuma nova questão incorporada nesta au
 - [Portal Itapecerica da Serra](https://avancasp.selecao.net.br/informacoes/266/): cadernos de Arquiteto e Enfermeiro excederam limite de recuperação. Gabarito definitivo disponível. Nenhum item importado nesta rodada.
 
 650 registros anteriores preservados; índice e JSON verificados. Não há transcrição integral nem conclusão de deduplicação interconcurso. Priorizar segundo bloco superior de Vargem Grande Paulista e novos concursos compatíveis com PDFs recuperáveis.
+
+## Banco v0.7.0 — lote complementar 007-B
+
+- [Banco JSON v0.7](data/avanca_lais_banco_v0.7.json) e [índice CSV v0.7](data/avanca_lais_indice_v0.7.csv).
+- 695 registros de 15 cadernos: A=397, B=90, R=123, P=12, X=6, D=67. A/B=487 (LP=106, MRL=99, INF=39, CE=243).
+- Cachoeira Paulista, Processo Seletivo 04/2026, Psicólogo (superior), 08/11/2026: 20 itens gerais visualmente examinados; 19 A e 1 R (arredondamento monetário Q11). Gabarito definitivo de 23/11/2026, consultado em texto oficial.
+- Q21–25 de Informática não recuperadas e não importadas; específicos não triados. Cadernos de Bibliotecário e Arquiteto de Vargem Grande Paulista, Farmacêutico de Itapecerica e Professor I de Cachoeira Paulista não puderam ser examinados nesta rodada.
+- [Repetições 007-B](data/repeticoes_lote_007B.json): variante interconcurso sobre agente da passiva (VGP Q08 e CAP Q07), ambas preservadas; dois agrupamentos de respostas coincidentes em Cachoeira Paulista, ainda não confirmados por confronto dos textos.
+- 675 registros anteriores preservados, identificadores e CSV conferidos. Sem transcrição integral nem auditoria cruzada exaustiva. Priorizar recuperação dos PDFs pendentes e preparação de corpus utilizável, sobretudo Informática.

@@ -1,0 +1,42 @@
+{
+  "base": "v0.7",
+  "comparacoes": [
+    {
+      "origem": "AV-CAP26-PSI-Q07",
+      "referencia": "AV-VGP26-AS-Q08",
+      "escopo": "interconcurso",
+      "status": "variante_formulacao_confirmada",
+      "conceito": "Agente da passiva introduzido pela preposição de",
+      "evidencia": "Comando equivalente; frases e alternativas diferentes, gabaritos E e B respectivamente. Preservar ambos.",
+      "metodo": "comparação visual dos cadernos",
+      "fontes": [
+        "https://anexos-r2.selecao.net.br/uploads/301/concursos/280/anexos/af305528-d9b7-402d-8fae-9fd8702ef840.pdf#page=3",
+        "https://anexos-r2.selecao.net.br/uploads/301/concursos/241/anexos/62848761-a3a0-404c-8768-1dcad1381e40.pdf#page=4"
+      ]
+    }
+  ],
+  "candidatos_intraconcurso": [
+    {
+      "concurso": "Cachoeira Paulista 04/2026",
+      "cargos": [
+        "Psicólogo",
+        "Assistente Social",
+        "Enfermeiro ESF"
+      ],
+      "gabarito_q01_25": "DACDABECEBCDDACEADBDADAEC",
+      "status": "coincidência de gabarito; texto não comparado"
+    },
+    {
+      "concurso": "Cachoeira Paulista 04/2026",
+      "cargos": [
+        "Coordenador do Abrigo Florescer",
+        "Enfermeiro AME",
+        "Médico ESF",
+        "Médico Psiquiatra",
+        "Professor I"
+      ],
+      "gabarito_q01_25": "DBEDACBAECBEADCBAACDCAADD",
+      "status": "coincidência de gabarito; texto não comparado"
+    }
+  ]
+}

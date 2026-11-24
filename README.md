@@ -73,3 +73,7 @@ Base v0.5 preservada sem alteração. Nenhuma nova questão incorporada nesta au
 - Distribuição A/B: LP=146, MRL=132, INF=61, CE=260.
 - 25 novas duplicatas intraconcurso Arquiteto/Farmacêutico e 25 candidatas de Controlador Interno/Assistente Social. Gabaritos e classificações herdados do lote local, não revalidados item a item nesta integração.
 - Os assets continuam locais e vinculados por manifesto; não publicados. O banco JSON não é por si só simulador executável. Próxima etapa: obter PDFs originais dos cadernos de gestão para revisão visual, gabaritos e recortes.
+
+## Banco v0.9.0 — auditoria do lote visual 002
+
+[JSON](data/avanca_lais_banco_v0.9.json) · [CSV](data/avanca_lais_indice_v0.9.csv). 875 ocorrências preservadas; A=513, B=93, R=163, P=4, X=7, D=95. 350 respostas confrontadas com quatro gabaritos oficiais definitivos: nenhuma divergência. Potim: 35 pares Supervisor/Coordenador confirmados por texto, imagem e gabarito (25 gerais e 10 específicos). Amparo: oito classificações recuperadas, sete A e uma R. 300 novos recortes locais de seis cadernos, não publicados no repositório. Caderno Garça ainda não recebido. Pacote local cumulativo: 500 ocorrências, 346 A/B em treino preliminar; revisão visual individual e testes de navegador ainda pendentes. Nenhuma repetição literal interconcurso detectada na comparação dos textos extraídos dos cinco cadernos com camada textual; não é auditoria exaustiva de suportes, variantes ou demais provas.

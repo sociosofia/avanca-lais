@@ -32,3 +32,10 @@ A: aderência direta; B: aderência temática; R: revisão; P: pendente; X: excl
 ## Próximos lotes
 
 Provas complementares de professores e de outros cargos superiores, priorizando concursos/blocos gerais ainda inéditos. Auditoria de classificação, legislação, gabaritos e duplicidades. Incorporar enunciados e alternativas antes do simulador. Manter versões cumulativas e histórico.
+
+## Auditoria metodológica v0.5.1
+
+- [Relações de repetição](data/auditoria_repeticoes_v0.5.1.json): 67 vínculos intraconcurso registrados, 18 candidatos intraconcurso e três comparações interconcursos (variantes/recorrências, não duplicatas). Nenhum vínculo literal interconcurso registrado; cobertura incompleta.
+- [Protocolo de admissão e repetição](docs/protocolo_admissao_e_repeticoes.md): filtro por escolaridade, conteúdo programático, exigência observada e gabarito; piloto Itapecerica da Serra com programas gerais idênticos, importação pendente de inspeção dos itens.
+
+Base v0.5 preservada sem alteração. Nenhuma nova questão incorporada nesta auditoria.

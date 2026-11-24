@@ -85,3 +85,10 @@ Base v0.5 preservada sem alteração. Nenhuma nova questão incorporada nesta au
 ## Banco v0.11.0 — fechamento da coleta principal
 
 [JSON](data/avanca_lais_banco_v0.11.json) · [CSV](data/avanca_lais_indice_v0.11.csv). 875 ocorrências de 21 cadernos, todas com recortes disponíveis no pacote local cumulativo dos lotes 001–004. 515 A, 94 B, 124 R, 135 D, 7 X; 609 A/B preliminares. Distribuição: LP=147, MRL=132, INF=66, CE=264. Assistente Social e Controlador Interno de Vargem Grande Paulista: 25 pares intraconcurso confirmados por comparação visual e máscaras de pixels nas páginas 2–7, com gabaritos anteriormente cadastrados coincidentes. Preservadas ambas as ocorrências, 25 R convertidas em D. Nenhum novo ID. ZIP local e referências de imagens verificados, sintaxe JS aprovada; navegador bloqueou testes por política do ambiente. Imagens não publicadas no GitHub. Aderência por cargo, revisão individual, auditoria interconcursos e testes de interação permanecem pendentes. Próxima etapa: engenharia reversa por seleção independente, eixo, autor, norma e modelo de cobrança, com análise de lacunas frente ao edital retificado.
+
+## Engenharia reversa — primeira leitura da v0.11
+
+- [Relatório analítico estruturado](analysis/engenharia_reversa_v0.11.json): posições originais, eixos, autores explícitos, incidência por seleção, IDs de evidência e limites metodológicos. 740 registros históricos não-D; 609 A/B preliminares; 16 blocos gerais em nove seleções.
+- [Requisitos do aplicativo e próximos tratamentos](docs/requisitos_app_e_engenharia_reversa.md): interface simples sem status internos ou filtros de concurso, simulado padrão, treino por áreas/assuntos, desempenho, copiar questão para Sofia, dicas fundamentadas.
+
+Nenhum registro da base v0.11 alterado. Frequências preliminares; auditoria de taxonomia, aderência por cargo, formatos, gabaritos problemáticos e duplicidade interconcurso ainda necessária.

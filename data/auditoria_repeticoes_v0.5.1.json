@@ -1,0 +1,823 @@
+{
+  "versao": "0.5.1",
+  "base": {
+    "arquivo": "data/avanca_lais_banco_v0.5.json",
+    "blob": "2d7ea2c8919a19e93dff898704b474557ba03cd1",
+    "registros": 650
+  },
+  "data": "2026-11-24",
+  "contagem": {
+    "duplicidades_registradas": 67,
+    "candidatas": 18,
+    "interconcurso_registradas": 0
+  },
+  "relacoes_herdadas": [
+    {
+      "origem": "AV-POT26-COO-Q01",
+      "referencia": "AV-POT26-SUP-Q01",
+      "escopo": "intraconcurso",
+      "status": "candidata",
+      "disciplina": "LP",
+      "gabarito_coincide": true,
+      "proveniencia": "v0.5; vínculo auditado estruturalmente, sem reconferência integral do texto"
+    },
+    {
+      "origem": "AV-POT26-COO-Q02",
+      "referencia": "AV-POT26-SUP-Q02",
+      "escopo": "intraconcurso",
+      "status": "registrada_textual",
+      "disciplina": "LP",
+      "gabarito_coincide": true,
+      "proveniencia": "v0.5; vínculo auditado estruturalmente, sem reconferência integral do texto"
+    },
+    {
+      "origem": "AV-POT26-COO-Q03",
+      "referencia": "AV-POT26-SUP-Q03",
+      "escopo": "intraconcurso",
+      "status": "registrada_textual",
+      "disciplina": "LP",
+      "gabarito_coincide": true,
+      "proveniencia": "v0.5; vínculo auditado estruturalmente, sem reconferência integral do texto"
+    },
+    {
+      "origem": "AV-POT26-COO-Q04",
+      "referencia": "AV-POT26-SUP-Q04",
+      "escopo": "intraconcurso",
+      "status": "registrada_textual",
+      "disciplina": "LP",
+      "gabarito_coincide": true,
+      "proveniencia": "v0.5; vínculo auditado estruturalmente, sem reconferência integral do texto"
+    },
+    {
+      "origem": "AV-POT26-COO-Q05",
+      "referencia": "AV-POT26-SUP-Q05",
+      "escopo": "intraconcurso",
+      "status": "registrada_textual",
+      "disciplina": "LP",
+      "gabarito_coincide": true,
+      "proveniencia": "v0.5; vínculo auditado estruturalmente, sem reconferência integral do texto"
+    },
+    {
+      "origem": "AV-POT26-COO-Q06",
+      "referencia": "AV-POT26-SUP-Q06",
+      "escopo": "intraconcurso",
+      "status": "registrada_textual",
+      "disciplina": "LP",
+      "gabarito_coincide": true,
+      "proveniencia": "v0.5; vínculo auditado estruturalmente, sem reconferência integral do texto"
+    },
+    {
+      "origem": "AV-POT26-COO-Q07",
+      "referencia": "AV-POT26-SUP-Q07",
+      "escopo": "intraconcurso",
+      "status": "registrada_textual",
+      "disciplina": "LP",
+      "gabarito_coincide": true,
+      "proveniencia": "v0.5; vínculo auditado estruturalmente, sem reconferência integral do texto"
+    },
+    {
+      "origem": "AV-POT26-COO-Q08",
+      "referencia": "AV-POT26-SUP-Q08",
+      "escopo": "intraconcurso",
+      "status": "candidata",
+      "disciplina": "LP",
+      "gabarito_coincide": true,
+      "proveniencia": "v0.5; vínculo auditado estruturalmente, sem reconferência integral do texto"
+    },
+    {
+      "origem": "AV-POT26-COO-Q09",
+      "referencia": "AV-POT26-SUP-Q09",
+      "escopo": "intraconcurso",
+      "status": "registrada_textual",
+      "disciplina": "LP",
+      "gabarito_coincide": true,
+      "proveniencia": "v0.5; vínculo auditado estruturalmente, sem reconferência integral do texto"
+    },
+    {
+      "origem": "AV-POT26-COO-Q10",
+      "referencia": "AV-POT26-SUP-Q10",
+      "escopo": "intraconcurso",
+      "status": "registrada_textual",
+      "disciplina": "LP",
+      "gabarito_coincide": true,
+      "proveniencia": "v0.5; vínculo auditado estruturalmente, sem reconferência integral do texto"
+    },
+    {
+      "origem": "AV-POT26-COO-Q11",
+      "referencia": "AV-POT26-SUP-Q11",
+      "escopo": "intraconcurso",
+      "status": "registrada_textual",
+      "disciplina": "MRL",
+      "gabarito_coincide": true,
+      "proveniencia": "v0.5; vínculo auditado estruturalmente, sem reconferência integral do texto"
+    },
+    {
+      "origem": "AV-POT26-COO-Q12",
+      "referencia": "AV-POT26-SUP-Q12",
+      "escopo": "intraconcurso",
+      "status": "registrada_textual",
+      "disciplina": "MRL",
+      "gabarito_coincide": true,
+      "proveniencia": "v0.5; vínculo auditado estruturalmente, sem reconferência integral do texto"
+    },
+    {
+      "origem": "AV-POT26-COO-Q13",
+      "referencia": "AV-POT26-SUP-Q13",
+      "escopo": "intraconcurso",
+      "status": "registrada_textual",
+      "disciplina": "MRL",
+      "gabarito_coincide": true,
+      "proveniencia": "v0.5; vínculo auditado estruturalmente, sem reconferência integral do texto"
+    },
+    {
+      "origem": "AV-POT26-COO-Q14",
+      "referencia": "AV-POT26-SUP-Q14",
+      "escopo": "intraconcurso",
+      "status": "registrada_textual",
+      "disciplina": "MRL",
+      "gabarito_coincide": true,
+      "proveniencia": "v0.5; vínculo auditado estruturalmente, sem reconferência integral do texto"
+    },
+    {
+      "origem": "AV-POT26-COO-Q15",
+      "referencia": "AV-POT26-SUP-Q15",
+      "escopo": "intraconcurso",
+      "status": "registrada_textual",
+      "disciplina": "MRL",
+      "gabarito_coincide": true,
+      "proveniencia": "v0.5; vínculo auditado estruturalmente, sem reconferência integral do texto"
+    },
+    {
+      "origem": "AV-POT26-COO-Q16",
+      "referencia": "AV-POT26-SUP-Q16",
+      "escopo": "intraconcurso",
+      "status": "registrada_textual",
+      "disciplina": "MRL",
+      "gabarito_coincide": true,
+      "proveniencia": "v0.5; vínculo auditado estruturalmente, sem reconferência integral do texto"
+    },
+    {
+      "origem": "AV-POT26-COO-Q17",
+      "referencia": "AV-POT26-SUP-Q17",
+      "escopo": "intraconcurso",
+      "status": "registrada_textual",
+      "disciplina": "MRL",
+      "gabarito_coincide": true,
+      "proveniencia": "v0.5; vínculo auditado estruturalmente, sem reconferência integral do texto"
+    },
+    {
+      "origem": "AV-POT26-COO-Q18",
+      "referencia": "AV-POT26-SUP-Q18",
+      "escopo": "intraconcurso",
+      "status": "candidata",
+      "disciplina": "MRL",
+      "gabarito_coincide": true,
+      "proveniencia": "v0.5; vínculo auditado estruturalmente, sem reconferência integral do texto"
+    },
+    {
+      "origem": "AV-POT26-COO-Q19",
+      "referencia": "AV-POT26-SUP-Q19",
+      "escopo": "intraconcurso",
+      "status": "registrada_textual",
+      "disciplina": "MRL",
+      "gabarito_coincide": true,
+      "proveniencia": "v0.5; vínculo auditado estruturalmente, sem reconferência integral do texto"
+    },
+    {
+      "origem": "AV-POT26-COO-Q20",
+      "referencia": "AV-POT26-SUP-Q20",
+      "escopo": "intraconcurso",
+      "status": "registrada_textual",
+      "disciplina": "MRL",
+      "gabarito_coincide": true,
+      "proveniencia": "v0.5; vínculo auditado estruturalmente, sem reconferência integral do texto"
+    },
+    {
+      "origem": "AV-POT26-COO-Q21",
+      "referencia": "AV-POT26-SUP-Q21",
+      "escopo": "intraconcurso",
+      "status": "registrada_textual",
+      "disciplina": "INF",
+      "gabarito_coincide": true,
+      "proveniencia": "v0.5; vínculo auditado estruturalmente, sem reconferência integral do texto"
+    },
+    {
+      "origem": "AV-POT26-COO-Q22",
+      "referencia": "AV-POT26-SUP-Q22",
+      "escopo": "intraconcurso",
+      "status": "registrada_textual",
+      "disciplina": "INF",
+      "gabarito_coincide": true,
+      "proveniencia": "v0.5; vínculo auditado estruturalmente, sem reconferência integral do texto"
+    },
+    {
+      "origem": "AV-POT26-COO-Q23",
+      "referencia": "AV-POT26-SUP-Q23",
+      "escopo": "intraconcurso",
+      "status": "registrada_textual",
+      "disciplina": "INF",
+      "gabarito_coincide": true,
+      "proveniencia": "v0.5; vínculo auditado estruturalmente, sem reconferência integral do texto"
+    },
+    {
+      "origem": "AV-POT26-COO-Q24",
+      "referencia": "AV-POT26-SUP-Q24",
+      "escopo": "intraconcurso",
+      "status": "registrada_textual",
+      "disciplina": "INF",
+      "gabarito_coincide": true,
+      "proveniencia": "v0.5; vínculo auditado estruturalmente, sem reconferência integral do texto"
+    },
+    {
+      "origem": "AV-POT26-COO-Q25",
+      "referencia": "AV-POT26-SUP-Q25",
+      "escopo": "intraconcurso",
+      "status": "registrada_textual",
+      "disciplina": "INF",
+      "gabarito_coincide": true,
+      "proveniencia": "v0.5; vínculo auditado estruturalmente, sem reconferência integral do texto"
+    },
+    {
+      "origem": "AV-POT26-COO-Q26",
+      "referencia": "AV-POT26-SUP-Q26",
+      "escopo": "intraconcurso",
+      "status": "registrada_textual",
+      "disciplina": "CE",
+      "gabarito_coincide": true,
+      "proveniencia": "v0.5; vínculo auditado estruturalmente, sem reconferência integral do texto"
+    },
+    {
+      "origem": "AV-POT26-COO-Q27",
+      "referencia": "AV-POT26-SUP-Q27",
+      "escopo": "intraconcurso",
+      "status": "registrada_textual",
+      "disciplina": "CE",
+      "gabarito_coincide": true,
+      "proveniencia": "v0.5; vínculo auditado estruturalmente, sem reconferência integral do texto"
+    },
+    {
+      "origem": "AV-POT26-COO-Q28",
+      "referencia": "AV-POT26-SUP-Q28",
+      "escopo": "intraconcurso",
+      "status": "registrada_textual",
+      "disciplina": "CE",
+      "gabarito_coincide": true,
+      "proveniencia": "v0.5; vínculo auditado estruturalmente, sem reconferência integral do texto"
+    },
+    {
+      "origem": "AV-POT26-COO-Q29",
+      "referencia": "AV-POT26-SUP-Q29",
+      "escopo": "intraconcurso",
+      "status": "registrada_textual",
+      "disciplina": "CE",
+      "gabarito_coincide": true,
+      "proveniencia": "v0.5; vínculo auditado estruturalmente, sem reconferência integral do texto"
+    },
+    {
+      "origem": "AV-POT26-COO-Q30",
+      "referencia": "AV-POT26-SUP-Q30",
+      "escopo": "intraconcurso",
+      "status": "registrada_textual",
+      "disciplina": "CE",
+      "gabarito_coincide": true,
+      "proveniencia": "v0.5; vínculo auditado estruturalmente, sem reconferência integral do texto"
+    },
+    {
+      "origem": "AV-POT26-COO-Q46",
+      "referencia": "AV-POT26-SUP-Q46",
+      "escopo": "intraconcurso",
+      "status": "registrada_textual",
+      "disciplina": "CE",
+      "gabarito_coincide": true,
+      "proveniencia": "v0.5; vínculo auditado estruturalmente, sem reconferência integral do texto"
+    },
+    {
+      "origem": "AV-POT26-COO-Q47",
+      "referencia": "AV-POT26-SUP-Q47",
+      "escopo": "intraconcurso",
+      "status": "registrada_textual",
+      "disciplina": "CE",
+      "gabarito_coincide": true,
+      "proveniencia": "v0.5; vínculo auditado estruturalmente, sem reconferência integral do texto"
+    },
+    {
+      "origem": "AV-POT26-COO-Q48",
+      "referencia": "AV-POT26-SUP-Q48",
+      "escopo": "intraconcurso",
+      "status": "registrada_textual",
+      "disciplina": "CE",
+      "gabarito_coincide": true,
+      "proveniencia": "v0.5; vínculo auditado estruturalmente, sem reconferência integral do texto"
+    },
+    {
+      "origem": "AV-POT26-COO-Q49",
+      "referencia": "AV-POT26-SUP-Q49",
+      "escopo": "intraconcurso",
+      "status": "registrada_textual",
+      "disciplina": "CE",
+      "gabarito_coincide": true,
+      "proveniencia": "v0.5; vínculo auditado estruturalmente, sem reconferência integral do texto"
+    },
+    {
+      "origem": "AV-POT26-COO-Q50",
+      "referencia": "AV-POT26-SUP-Q50",
+      "escopo": "intraconcurso",
+      "status": "registrada_textual",
+      "disciplina": "CE",
+      "gabarito_coincide": true,
+      "proveniencia": "v0.5; vínculo auditado estruturalmente, sem reconferência integral do texto"
+    },
+    {
+      "origem": "AV-CAI25-COO-Q01",
+      "referencia": "AV-CAI25-SUP-Q01",
+      "escopo": "intraconcurso",
+      "status": "candidata",
+      "disciplina": "LP",
+      "gabarito_coincide": true,
+      "proveniencia": "v0.5; vínculo auditado estruturalmente, sem reconferência integral do texto"
+    },
+    {
+      "origem": "AV-CAI25-COO-Q02",
+      "referencia": "AV-CAI25-SUP-Q02",
+      "escopo": "intraconcurso",
+      "status": "candidata",
+      "disciplina": "LP",
+      "gabarito_coincide": true,
+      "proveniencia": "v0.5; vínculo auditado estruturalmente, sem reconferência integral do texto"
+    },
+    {
+      "origem": "AV-CAI25-COO-Q03",
+      "referencia": "AV-CAI25-SUP-Q03",
+      "escopo": "intraconcurso",
+      "status": "registrada_textual",
+      "disciplina": "LP",
+      "gabarito_coincide": true,
+      "proveniencia": "v0.5; vínculo auditado estruturalmente, sem reconferência integral do texto"
+    },
+    {
+      "origem": "AV-CAI25-COO-Q04",
+      "referencia": "AV-CAI25-SUP-Q04",
+      "escopo": "intraconcurso",
+      "status": "registrada_textual",
+      "disciplina": "LP",
+      "gabarito_coincide": true,
+      "proveniencia": "v0.5; vínculo auditado estruturalmente, sem reconferência integral do texto"
+    },
+    {
+      "origem": "AV-CAI25-COO-Q05",
+      "referencia": "AV-CAI25-SUP-Q05",
+      "escopo": "intraconcurso",
+      "status": "registrada_textual",
+      "disciplina": "LP",
+      "gabarito_coincide": true,
+      "proveniencia": "v0.5; vínculo auditado estruturalmente, sem reconferência integral do texto"
+    },
+    {
+      "origem": "AV-CAI25-COO-Q06",
+      "referencia": "AV-CAI25-SUP-Q06",
+      "escopo": "intraconcurso",
+      "status": "registrada_textual",
+      "disciplina": "LP",
+      "gabarito_coincide": true,
+      "proveniencia": "v0.5; vínculo auditado estruturalmente, sem reconferência integral do texto"
+    },
+    {
+      "origem": "AV-CAI25-COO-Q07",
+      "referencia": "AV-CAI25-SUP-Q07",
+      "escopo": "intraconcurso",
+      "status": "registrada_textual",
+      "disciplina": "LP",
+      "gabarito_coincide": true,
+      "proveniencia": "v0.5; vínculo auditado estruturalmente, sem reconferência integral do texto"
+    },
+    {
+      "origem": "AV-CAI25-COO-Q08",
+      "referencia": "AV-CAI25-SUP-Q08",
+      "escopo": "intraconcurso",
+      "status": "registrada_textual",
+      "disciplina": "LP",
+      "gabarito_coincide": true,
+      "proveniencia": "v0.5; vínculo auditado estruturalmente, sem reconferência integral do texto"
+    },
+    {
+      "origem": "AV-CAI25-COO-Q09",
+      "referencia": "AV-CAI25-SUP-Q09",
+      "escopo": "intraconcurso",
+      "status": "candidata",
+      "disciplina": "LP",
+      "gabarito_coincide": true,
+      "proveniencia": "v0.5; vínculo auditado estruturalmente, sem reconferência integral do texto"
+    },
+    {
+      "origem": "AV-CAI25-COO-Q10",
+      "referencia": "AV-CAI25-SUP-Q10",
+      "escopo": "intraconcurso",
+      "status": "registrada_textual",
+      "disciplina": "LP",
+      "gabarito_coincide": true,
+      "proveniencia": "v0.5; vínculo auditado estruturalmente, sem reconferência integral do texto"
+    },
+    {
+      "origem": "AV-CAI25-COO-Q11",
+      "referencia": "AV-CAI25-SUP-Q11",
+      "escopo": "intraconcurso",
+      "status": "registrada_textual",
+      "disciplina": "MRL",
+      "gabarito_coincide": true,
+      "proveniencia": "v0.5; vínculo auditado estruturalmente, sem reconferência integral do texto"
+    },
+    {
+      "origem": "AV-CAI25-COO-Q12",
+      "referencia": "AV-CAI25-SUP-Q12",
+      "escopo": "intraconcurso",
+      "status": "candidata",
+      "disciplina": "MRL",
+      "gabarito_coincide": true,
+      "proveniencia": "v0.5; vínculo auditado estruturalmente, sem reconferência integral do texto"
+    },
+    {
+      "origem": "AV-CAI25-COO-Q13",
+      "referencia": "AV-CAI25-SUP-Q13",
+      "escopo": "intraconcurso",
+      "status": "registrada_textual",
+      "disciplina": "MRL",
+      "gabarito_coincide": true,
+      "proveniencia": "v0.5; vínculo auditado estruturalmente, sem reconferência integral do texto"
+    },
+    {
+      "origem": "AV-CAI25-COO-Q14",
+      "referencia": "AV-CAI25-SUP-Q14",
+      "escopo": "intraconcurso",
+      "status": "registrada_textual",
+      "disciplina": "MRL",
+      "gabarito_coincide": true,
+      "proveniencia": "v0.5; vínculo auditado estruturalmente, sem reconferência integral do texto"
+    },
+    {
+      "origem": "AV-CAI25-COO-Q15",
+      "referencia": "AV-CAI25-SUP-Q15",
+      "escopo": "intraconcurso",
+      "status": "registrada_textual",
+      "disciplina": "MRL",
+      "gabarito_coincide": true,
+      "proveniencia": "v0.5; vínculo auditado estruturalmente, sem reconferência integral do texto"
+    },
+    {
+      "origem": "AV-CAI25-COO-Q16",
+      "referencia": "AV-CAI25-SUP-Q16",
+      "escopo": "intraconcurso",
+      "status": "candidata",
+      "disciplina": "MRL",
+      "gabarito_coincide": true,
+      "proveniencia": "v0.5; vínculo auditado estruturalmente, sem reconferência integral do texto"
+    },
+    {
+      "origem": "AV-CAI25-COO-Q17",
+      "referencia": "AV-CAI25-SUP-Q17",
+      "escopo": "intraconcurso",
+      "status": "registrada_textual",
+      "disciplina": "MRL",
+      "gabarito_coincide": true,
+      "proveniencia": "v0.5; vínculo auditado estruturalmente, sem reconferência integral do texto"
+    },
+    {
+      "origem": "AV-CAI25-COO-Q18",
+      "referencia": "AV-CAI25-SUP-Q18",
+      "escopo": "intraconcurso",
+      "status": "registrada_textual",
+      "disciplina": "MRL",
+      "gabarito_coincide": true,
+      "proveniencia": "v0.5; vínculo auditado estruturalmente, sem reconferência integral do texto"
+    },
+    {
+      "origem": "AV-CAI25-COO-Q19",
+      "referencia": "AV-CAI25-SUP-Q19",
+      "escopo": "intraconcurso",
+      "status": "candidata",
+      "disciplina": "MRL",
+      "gabarito_coincide": true,
+      "proveniencia": "v0.5; vínculo auditado estruturalmente, sem reconferência integral do texto"
+    },
+    {
+      "origem": "AV-CAI25-COO-Q20",
+      "referencia": "AV-CAI25-SUP-Q20",
+      "escopo": "intraconcurso",
+      "status": "candidata",
+      "disciplina": "MRL",
+      "gabarito_coincide": true,
+      "proveniencia": "v0.5; vínculo auditado estruturalmente, sem reconferência integral do texto"
+    },
+    {
+      "origem": "AV-CAI25-COO-Q21",
+      "referencia": "AV-CAI25-SUP-Q21",
+      "escopo": "intraconcurso",
+      "status": "registrada_textual",
+      "disciplina": "INF",
+      "gabarito_coincide": true,
+      "proveniencia": "v0.5; vínculo auditado estruturalmente, sem reconferência integral do texto"
+    },
+    {
+      "origem": "AV-CAI25-COO-Q22",
+      "referencia": "AV-CAI25-SUP-Q22",
+      "escopo": "intraconcurso",
+      "status": "registrada_textual",
+      "disciplina": "INF",
+      "gabarito_coincide": true,
+      "proveniencia": "v0.5; vínculo auditado estruturalmente, sem reconferência integral do texto"
+    },
+    {
+      "origem": "AV-CAI25-COO-Q23",
+      "referencia": "AV-CAI25-SUP-Q23",
+      "escopo": "intraconcurso",
+      "status": "registrada_textual",
+      "disciplina": "INF",
+      "gabarito_coincide": true,
+      "proveniencia": "v0.5; vínculo auditado estruturalmente, sem reconferência integral do texto"
+    },
+    {
+      "origem": "AV-CAI25-COO-Q24",
+      "referencia": "AV-CAI25-SUP-Q24",
+      "escopo": "intraconcurso",
+      "status": "registrada_textual",
+      "disciplina": "INF",
+      "gabarito_coincide": true,
+      "proveniencia": "v0.5; vínculo auditado estruturalmente, sem reconferência integral do texto"
+    },
+    {
+      "origem": "AV-CAI25-COO-Q25",
+      "referencia": "AV-CAI25-SUP-Q25",
+      "escopo": "intraconcurso",
+      "status": "registrada_textual",
+      "disciplina": "INF",
+      "gabarito_coincide": true,
+      "proveniencia": "v0.5; vínculo auditado estruturalmente, sem reconferência integral do texto"
+    },
+    {
+      "origem": "AV-JER26-INF-Q01",
+      "referencia": "AV-JER26-ORI-Q01",
+      "escopo": "intraconcurso",
+      "status": "candidata",
+      "disciplina": "LP",
+      "gabarito_coincide": true,
+      "proveniencia": "v0.5; vínculo auditado estruturalmente, sem reconferência integral do texto"
+    },
+    {
+      "origem": "AV-JER26-INF-Q02",
+      "referencia": "AV-JER26-ORI-Q02",
+      "escopo": "intraconcurso",
+      "status": "registrada_textual",
+      "disciplina": "LP",
+      "gabarito_coincide": true,
+      "proveniencia": "v0.5; vínculo auditado estruturalmente, sem reconferência integral do texto"
+    },
+    {
+      "origem": "AV-JER26-INF-Q03",
+      "referencia": "AV-JER26-ORI-Q03",
+      "escopo": "intraconcurso",
+      "status": "registrada_textual",
+      "disciplina": "LP",
+      "gabarito_coincide": true,
+      "proveniencia": "v0.5; vínculo auditado estruturalmente, sem reconferência integral do texto"
+    },
+    {
+      "origem": "AV-JER26-INF-Q04",
+      "referencia": "AV-JER26-ORI-Q04",
+      "escopo": "intraconcurso",
+      "status": "registrada_textual",
+      "disciplina": "LP",
+      "gabarito_coincide": true,
+      "proveniencia": "v0.5; vínculo auditado estruturalmente, sem reconferência integral do texto"
+    },
+    {
+      "origem": "AV-JER26-INF-Q05",
+      "referencia": "AV-JER26-ORI-Q05",
+      "escopo": "intraconcurso",
+      "status": "registrada_textual",
+      "disciplina": "LP",
+      "gabarito_coincide": true,
+      "proveniencia": "v0.5; vínculo auditado estruturalmente, sem reconferência integral do texto"
+    },
+    {
+      "origem": "AV-JER26-INF-Q06",
+      "referencia": "AV-JER26-ORI-Q06",
+      "escopo": "intraconcurso",
+      "status": "registrada_textual",
+      "disciplina": "LP",
+      "gabarito_coincide": true,
+      "proveniencia": "v0.5; vínculo auditado estruturalmente, sem reconferência integral do texto"
+    },
+    {
+      "origem": "AV-JER26-INF-Q07",
+      "referencia": "AV-JER26-ORI-Q07",
+      "escopo": "intraconcurso",
+      "status": "registrada_textual",
+      "disciplina": "LP",
+      "gabarito_coincide": true,
+      "proveniencia": "v0.5; vínculo auditado estruturalmente, sem reconferência integral do texto"
+    },
+    {
+      "origem": "AV-JER26-INF-Q08",
+      "referencia": "AV-JER26-ORI-Q08",
+      "escopo": "intraconcurso",
+      "status": "registrada_textual",
+      "disciplina": "LP",
+      "gabarito_coincide": true,
+      "proveniencia": "v0.5; vínculo auditado estruturalmente, sem reconferência integral do texto"
+    },
+    {
+      "origem": "AV-JER26-INF-Q09",
+      "referencia": "AV-JER26-ORI-Q09",
+      "escopo": "intraconcurso",
+      "status": "registrada_textual",
+      "disciplina": "LP",
+      "gabarito_coincide": true,
+      "proveniencia": "v0.5; vínculo auditado estruturalmente, sem reconferência integral do texto"
+    },
+    {
+      "origem": "AV-JER26-INF-Q10",
+      "referencia": "AV-JER26-ORI-Q10",
+      "escopo": "intraconcurso",
+      "status": "candidata",
+      "disciplina": "LP",
+      "gabarito_coincide": true,
+      "proveniencia": "v0.5; vínculo auditado estruturalmente, sem reconferência integral do texto"
+    },
+    {
+      "origem": "AV-JER26-INF-Q11",
+      "referencia": "AV-JER26-ORI-Q11",
+      "escopo": "intraconcurso",
+      "status": "registrada_textual",
+      "disciplina": "MRL",
+      "gabarito_coincide": true,
+      "proveniencia": "v0.5; vínculo auditado estruturalmente, sem reconferência integral do texto"
+    },
+    {
+      "origem": "AV-JER26-INF-Q12",
+      "referencia": "AV-JER26-ORI-Q12",
+      "escopo": "intraconcurso",
+      "status": "candidata",
+      "disciplina": "MRL",
+      "gabarito_coincide": true,
+      "proveniencia": "v0.5; vínculo auditado estruturalmente, sem reconferência integral do texto"
+    },
+    {
+      "origem": "AV-JER26-INF-Q13",
+      "referencia": "AV-JER26-ORI-Q13",
+      "escopo": "intraconcurso",
+      "status": "candidata",
+      "disciplina": "MRL",
+      "gabarito_coincide": true,
+      "proveniencia": "v0.5; vínculo auditado estruturalmente, sem reconferência integral do texto"
+    },
+    {
+      "origem": "AV-JER26-INF-Q14",
+      "referencia": "AV-JER26-ORI-Q14",
+      "escopo": "intraconcurso",
+      "status": "candidata",
+      "disciplina": "MRL",
+      "gabarito_coincide": true,
+      "proveniencia": "v0.5; vínculo auditado estruturalmente, sem reconferência integral do texto"
+    },
+    {
+      "origem": "AV-JER26-INF-Q15",
+      "referencia": "AV-JER26-ORI-Q15",
+      "escopo": "intraconcurso",
+      "status": "registrada_textual",
+      "disciplina": "MRL",
+      "gabarito_coincide": true,
+      "proveniencia": "v0.5; vínculo auditado estruturalmente, sem reconferência integral do texto"
+    },
+    {
+      "origem": "AV-JER26-INF-Q16",
+      "referencia": "AV-JER26-ORI-Q16",
+      "escopo": "intraconcurso",
+      "status": "registrada_textual",
+      "disciplina": "MRL",
+      "gabarito_coincide": true,
+      "proveniencia": "v0.5; vínculo auditado estruturalmente, sem reconferência integral do texto"
+    },
+    {
+      "origem": "AV-JER26-INF-Q17",
+      "referencia": "AV-JER26-ORI-Q17",
+      "escopo": "intraconcurso",
+      "status": "registrada_textual",
+      "disciplina": "MRL",
+      "gabarito_coincide": true,
+      "proveniencia": "v0.5; vínculo auditado estruturalmente, sem reconferência integral do texto"
+    },
+    {
+      "origem": "AV-JER26-INF-Q18",
+      "referencia": "AV-JER26-ORI-Q18",
+      "escopo": "intraconcurso",
+      "status": "candidata",
+      "disciplina": "MRL",
+      "gabarito_coincide": true,
+      "proveniencia": "v0.5; vínculo auditado estruturalmente, sem reconferência integral do texto"
+    },
+    {
+      "origem": "AV-JER26-INF-Q19",
+      "referencia": "AV-JER26-ORI-Q19",
+      "escopo": "intraconcurso",
+      "status": "registrada_textual",
+      "disciplina": "MRL",
+      "gabarito_coincide": true,
+      "proveniencia": "v0.5; vínculo auditado estruturalmente, sem reconferência integral do texto"
+    },
+    {
+      "origem": "AV-JER26-INF-Q20",
+      "referencia": "AV-JER26-ORI-Q20",
+      "escopo": "intraconcurso",
+      "status": "registrada_textual",
+      "disciplina": "MRL",
+      "gabarito_coincide": true,
+      "proveniencia": "v0.5; vínculo auditado estruturalmente, sem reconferência integral do texto"
+    },
+    {
+      "origem": "AV-JER26-INF-Q21",
+      "referencia": "AV-JER26-ORI-Q21",
+      "escopo": "intraconcurso",
+      "status": "candidata",
+      "disciplina": "INF",
+      "gabarito_coincide": true,
+      "proveniencia": "v0.5; vínculo auditado estruturalmente, sem reconferência integral do texto"
+    },
+    {
+      "origem": "AV-JER26-INF-Q22",
+      "referencia": "AV-JER26-ORI-Q22",
+      "escopo": "intraconcurso",
+      "status": "registrada_textual",
+      "disciplina": "INF",
+      "gabarito_coincide": true,
+      "proveniencia": "v0.5; vínculo auditado estruturalmente, sem reconferência integral do texto"
+    },
+    {
+      "origem": "AV-JER26-INF-Q23",
+      "referencia": "AV-JER26-ORI-Q23",
+      "escopo": "intraconcurso",
+      "status": "candidata",
+      "disciplina": "INF",
+      "gabarito_coincide": true,
+      "proveniencia": "v0.5; vínculo auditado estruturalmente, sem reconferência integral do texto"
+    },
+    {
+      "origem": "AV-JER26-INF-Q24",
+      "referencia": "AV-JER26-ORI-Q24",
+      "escopo": "intraconcurso",
+      "status": "registrada_textual",
+      "disciplina": "INF",
+      "gabarito_coincide": true,
+      "proveniencia": "v0.5; vínculo auditado estruturalmente, sem reconferência integral do texto"
+    },
+    {
+      "origem": "AV-JER26-INF-Q25",
+      "referencia": "AV-JER26-ORI-Q25",
+      "escopo": "intraconcurso",
+      "status": "registrada_textual",
+      "disciplina": "INF",
+      "gabarito_coincide": true,
+      "proveniencia": "v0.5; vínculo auditado estruturalmente, sem reconferência integral do texto"
+    }
+  ],
+  "comparacoes_interconcursos": [
+    {
+      "origem": "AV-GAR26-DIR-Q32",
+      "referencia": "AV-POT26-DIR-Q35",
+      "escopo": "interconcurso",
+      "status": "variante_formulacao_confirmada",
+      "conceito": "Luckesi: exame classificatório e avaliação diagnóstica",
+      "evidencia": "Garça p.9 pede classificação; Potim p.10 pede diagnóstico. Mesmo núcleo proposicional, lacuna e alternativas diferentes. Manter ambas.",
+      "metodo": "comparação visual dos PDFs",
+      "fontes": [
+        "https://anexos-r2.selecao.net.br/uploads/301/concursos/256/anexos/7de9d32b-b79b-4b42-b4fe-5c0c433fae19.pdf#page=9",
+        "https://anexos.cdn.selecao.net.br/uploads/301/concursos/220/anexos/1adc992b-6835-4059-8e8c-d38dfe709a24.pdf#page=10"
+      ]
+    },
+    {
+      "origem": "AV-VAR25-ORI-Q34",
+      "referencia": "AV-POT26-DIR-Q35",
+      "escopo": "interconcurso",
+      "status": "recorrencia_conceitual_confirmada",
+      "conceito": "Luckesi: examinar e avaliar",
+      "evidencia": "Varginha p.11 pede reconhecer contraste entre resultado e intervenção diagnóstica; Potim p.10 pede completar lacuna. Manter ambas.",
+      "metodo": "texto indexado Varginha; captura Potim; captura Varginha indisponível",
+      "fontes": [
+        "https://anexos.cdn.selecao.net.br/uploads/301/concursos/197/anexos/1ffd3a18-9f42-4cad-a2f5-b695623c5228.pdf#page=11",
+        "https://anexos.cdn.selecao.net.br/uploads/301/concursos/220/anexos/1adc992b-6835-4059-8e8c-d38dfe709a24.pdf#page=10"
+      ]
+    },
+    {
+      "origem": "AV-GAR26-DIR-Q28",
+      "referencia": "AV-POT26-DIR-Q29",
+      "escopo": "interconcurso",
+      "status": "recorrencia_conceitual_confirmada",
+      "conceito": "Arroyo: disputas curriculares",
+      "evidencia": "Garça p.8 analisa imposição curricular e tensão docente; Potim p.8 analisa disputas políticas e inclusão de saberes dos movimentos sociais. Manter ambas.",
+      "metodo": "comparação visual dos PDFs",
+      "fontes": [
+        "https://anexos-r2.selecao.net.br/uploads/301/concursos/256/anexos/7de9d32b-b79b-4b42-b4fe-5c0c433fae19.pdf#page=8",
+        "https://anexos.cdn.selecao.net.br/uploads/301/concursos/220/anexos/1adc992b-6835-4059-8e8c-d38dfe709a24.pdf#page=8"
+      ]
+    }
+  ],
+  "limite": "Sem enunciados integrais no banco, zero duplicatas interconcurso registradas não significa ausência. As 67 classificações herdadas não foram reconferidas visualmente nesta rodada. Não contar variantes como duplicatas."
+}

@@ -65,3 +65,11 @@ Base v0.5 preservada sem alteração. Nenhuma nova questão incorporada nesta au
 ## Lote visual 001 — material local
 
 [Manifesto de integração](data/lote_visual_001_manifesto.json): 200 ocorrências de sete cadernos, incluindo 20 registros já existentes na v0.7; 25 duplicidades confirmadas de Itapecerica, 25 candidatos de Controlador Interno de Vargem Grande Paulista retidos para comparação com Assistente Social. 131 registros A/B no lote local, 43 R, 25 D, 1 X. Os recortes, textos-base numerados e visualizador de treino foram entregues localmente; não estão publicados no repositório público. Classificação, numeração e recortes preliminares; não somar o manifesto ao total da v0.7 antes de reconciliar IDs e auditoria.
+
+## Banco v0.8.0 — integração do lote visual 001
+
+- [Banco JSON](data/avanca_lais_banco_v0.8.json) e [índice CSV](data/avanca_lais_indice_v0.8.csv).
+- 875 ocorrências de 21 cadernos, 695 anteriores preservadas + 180 novas (20 IDs coincidentes no manifesto não duplicados). A=506, B=93, R=165, P=12, X=7, D=92. A/B=599, ainda preliminares e sujeitos à auditoria.
+- Distribuição A/B: LP=146, MRL=132, INF=61, CE=260.
+- 25 novas duplicatas intraconcurso Arquiteto/Farmacêutico e 25 candidatas de Controlador Interno/Assistente Social. Gabaritos e classificações herdados do lote local, não revalidados item a item nesta integração.
+- Os assets continuam locais e vinculados por manifesto; não publicados. O banco JSON não é por si só simulador executável. Próxima etapa: obter PDFs originais dos cadernos de gestão para revisão visual, gabaritos e recortes.

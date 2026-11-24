@@ -1,0 +1,510 @@
+{
+  "versao": "0.1",
+  "base": "v0.12",
+  "fontes": {
+    "edital": "https://anexos-r2.selecao.net.br/uploads/301/concursos/21/anexos/a4ef6a57-6b06-4b09-82df-608c418cbab4.pdf",
+    "retificacao_I": "https://anexos-r2.selecao.net.br/uploads/301/concursos/21/anexos/fd33d93a-36d1-4665-8b26-e2be49515bdc.pdf",
+    "retificacao_II": "https://anexos-r2.selecao.net.br/uploads/301/concursos/21/anexos/ab0b91fa-e883-4cc2-8810-23e08891c5a9.pdf",
+    "retificacao_III": "https://anexos-r2.selecao.net.br/uploads/301/concursos/21/anexos/d1ef37b1-a1eb-4745-94d3-07690e4d73fe.pdf"
+  },
+  "metodo": "Conferência visual do edital pp.93–94, retificação I pp.2–10, II p.1 e III p.2. Mapeamento preliminar; não equivale a certificação de aderência item a item.",
+  "cargos": {
+    "DIR": {
+      "nome": "Diretor de Escola",
+      "bibliografia_especifica": [
+        "Veiga — PPP",
+        "Cadernos 1 e 5 do Programa Nacional de Fortalecimento dos Conselhos Escolares",
+        "Lück — A gestão participativa na escola; Gestão de pessoas nas escolas",
+        "Paro — Gestão democrática da escola pública; Diretor escolar: educador ou gerente?"
+      ]
+    },
+    "SUP": {
+      "nome": "Supervisor de Ensino",
+      "bibliografia_especifica": [
+        "Nilda Alves — Educação e supervisão",
+        "Possani, Almeida e Salmaso — Ação supervisora",
+        "Mary Rangel — Supervisão e gestão na escola",
+        "Saviani — A supervisão educacional em perspectiva histórica",
+        "Marsiglia — A prática pedagógica histórico-crítica",
+        "Lígia Márcia Martins — O desenvolvimento do psiquismo e a educação escolar",
+        "Lück — Concepções e processos democráticos de gestão educacional; Liderança em gestão escolar; Gestão de pessoas nas escolas",
+        "Paro — Administração escolar; Gestão democrática da escola pública; Diretor escolar: educador ou gerente?"
+      ],
+      "enfase": [
+        "Gestão intersetorial",
+        "Indicadores: IDEB, fluxo e rendimento",
+        "Planos de ação, pareceres técnicos e relatórios",
+        "Planejamento estratégico e assessoria às escolas"
+      ],
+      "eixo": "CE17"
+    }
+  },
+  "comum": {
+    "eixos": {
+      "LP": [
+        {
+          "codigo": "LP01",
+          "questoes_AB": 22
+        },
+        {
+          "codigo": "LP02",
+          "questoes_AB": 17
+        },
+        {
+          "codigo": "LP03",
+          "questoes_AB": 10
+        },
+        {
+          "codigo": "LP04",
+          "questoes_AB": 7
+        },
+        {
+          "codigo": "LP05",
+          "questoes_AB": 2
+        },
+        {
+          "codigo": "LP06",
+          "questoes_AB": 36
+        },
+        {
+          "codigo": "LP07",
+          "questoes_AB": 12
+        },
+        {
+          "codigo": "LP08",
+          "questoes_AB": 17
+        },
+        {
+          "codigo": "LP09",
+          "questoes_AB": 5
+        },
+        {
+          "codigo": "LP10",
+          "questoes_AB": 1
+        },
+        {
+          "codigo": "LP11",
+          "questoes_AB": 6
+        },
+        {
+          "codigo": "LP12",
+          "questoes_AB": 6
+        },
+        {
+          "codigo": "LP13",
+          "questoes_AB": 17
+        }
+      ],
+      "MRL": [
+        {
+          "codigo": "MRL01",
+          "questoes_AB": 13
+        },
+        {
+          "codigo": "MRL02",
+          "questoes_AB": 10
+        },
+        {
+          "codigo": "MRL03",
+          "questoes_AB": 10
+        },
+        {
+          "codigo": "MRL04",
+          "questoes_AB": 19
+        },
+        {
+          "codigo": "MRL05",
+          "questoes_AB": 11
+        },
+        {
+          "codigo": "MRL06",
+          "questoes_AB": 14
+        },
+        {
+          "codigo": "MRL07",
+          "questoes_AB": 5
+        },
+        {
+          "codigo": "MRL08",
+          "questoes_AB": 6
+        },
+        {
+          "codigo": "MRL09",
+          "questoes_AB": 7
+        },
+        {
+          "codigo": "MRL10",
+          "questoes_AB": 9
+        },
+        {
+          "codigo": "MRL11",
+          "questoes_AB": 24
+        },
+        {
+          "codigo": "MRL12",
+          "questoes_AB": 2
+        },
+        {
+          "codigo": "MRL13",
+          "questoes_AB": 8
+        },
+        {
+          "codigo": "MRL14",
+          "questoes_AB": 3
+        }
+      ],
+      "INF": [
+        {
+          "codigo": "INF01",
+          "questoes_AB": 24
+        },
+        {
+          "codigo": "INF02",
+          "questoes_AB": 12
+        },
+        {
+          "codigo": "INF03",
+          "questoes_AB": 11
+        },
+        {
+          "codigo": "INF04",
+          "questoes_AB": 1
+        },
+        {
+          "codigo": "INF05",
+          "questoes_AB": 4
+        },
+        {
+          "codigo": "INF06",
+          "questoes_AB": 14
+        }
+      ],
+      "CE": [
+        {
+          "codigo": "CE01",
+          "questoes_AB": 17
+        },
+        {
+          "codigo": "CE02",
+          "questoes_AB": 22
+        },
+        {
+          "codigo": "CE03",
+          "questoes_AB": 12
+        },
+        {
+          "codigo": "CE04",
+          "questoes_AB": 18
+        },
+        {
+          "codigo": "CE05",
+          "questoes_AB": 12
+        },
+        {
+          "codigo": "CE06",
+          "questoes_AB": 24
+        },
+        {
+          "codigo": "CE07",
+          "questoes_AB": 11
+        },
+        {
+          "codigo": "CE08",
+          "questoes_AB": 3
+        },
+        {
+          "codigo": "CE09",
+          "questoes_AB": 15
+        },
+        {
+          "codigo": "CE10",
+          "questoes_AB": 13
+        },
+        {
+          "codigo": "CE11",
+          "questoes_AB": 11
+        },
+        {
+          "codigo": "CE12",
+          "questoes_AB": 9
+        },
+        {
+          "codigo": "CE13",
+          "questoes_AB": 15
+        },
+        {
+          "codigo": "CE14",
+          "questoes_AB": 9
+        },
+        {
+          "codigo": "CE15",
+          "questoes_AB": 10
+        },
+        {
+          "codigo": "CE16",
+          "questoes_AB": 0
+        }
+      ]
+    },
+    "eca": "arts. 7–24, 53–69, 131–140",
+    "cf": "arts. 205–214",
+    "software": "Windows, Word, Excel, PowerPoint em versão mais recente",
+    "bibliografia_autores": [
+      "Arroyo",
+      "Cortella",
+      "Freire",
+      "Libâneo",
+      "Luckesi",
+      "Mota",
+      "Saviani",
+      "Celso Vasconcellos",
+      "Maria Lucia Vasconcelos"
+    ],
+    "retirados": [
+      "Filatro",
+      "bell hooks",
+      "Mantoan",
+      "Moran",
+      "Smole e Diniz",
+      "Zabala",
+      "Zabala e Arnau",
+      "Decreto 11.556/2023",
+      "Lei 13.005/2014"
+    ],
+    "regra": "Obras retiradas não são prioridade bibliográfica; tema amplo mantido no programa pode justificar questão temática, após exame. Decreto retirado e cobrança normativa específica fora do recorte: excluir do sorteio."
+  },
+  "lacunas_indexadas": [
+    {
+      "codigo": "LEG_PNE_2026",
+      "tema": "PNE — Lei 15.388/2026",
+      "ambito": "nacional",
+      "cargos": [
+        "DIR",
+        "SUP"
+      ],
+      "questoes_AB_indexadas": 0,
+      "limite": "Ausência de etiqueta específica, não prova ausência de conteúdo incidental; exigir auditoria individual."
+    },
+    {
+      "codigo": "LEG_10639",
+      "tema": "Lei 10.639/2003",
+      "ambito": "nacional",
+      "cargos": [
+        "DIR",
+        "SUP"
+      ],
+      "questoes_AB_indexadas": 0,
+      "limite": "Ausência de etiqueta específica, não prova ausência de conteúdo incidental; exigir auditoria individual."
+    },
+    {
+      "codigo": "LEG_11645",
+      "tema": "Lei 11.645/2008",
+      "ambito": "nacional",
+      "cargos": [
+        "DIR",
+        "SUP"
+      ],
+      "questoes_AB_indexadas": 0,
+      "limite": "Ausência de etiqueta específica, não prova ausência de conteúdo incidental; exigir auditoria individual."
+    },
+    {
+      "codigo": "LEG_12288",
+      "tema": "Estatuto da Igualdade Racial",
+      "ambito": "nacional",
+      "cargos": [
+        "DIR",
+        "SUP"
+      ],
+      "questoes_AB_indexadas": 0,
+      "limite": "Ausência de etiqueta específica, não prova ausência de conteúdo incidental; exigir auditoria individual."
+    },
+    {
+      "codigo": "LEG_CNE_1_2024",
+      "tema": "Qualidade e equidade na Educação Infantil",
+      "ambito": "nacional",
+      "cargos": [
+        "DIR",
+        "SUP"
+      ],
+      "questoes_AB_indexadas": 0,
+      "limite": "Ausência de etiqueta específica, não prova ausência de conteúdo incidental; exigir auditoria individual."
+    },
+    {
+      "codigo": "LEG_CNE_CP_4_2021",
+      "tema": "BNC-Diretor Escolar",
+      "ambito": "nacional",
+      "cargos": [
+        "DIR",
+        "SUP"
+      ],
+      "questoes_AB_indexadas": 0,
+      "limite": "Ausência de etiqueta específica, não prova ausência de conteúdo incidental; exigir auditoria individual."
+    },
+    {
+      "codigo": "LEG_CNE_2_2025",
+      "tema": "Dispositivos digitais e educação midiática",
+      "ambito": "nacional",
+      "cargos": [
+        "DIR",
+        "SUP"
+      ],
+      "questoes_AB_indexadas": 0,
+      "limite": "Ausência de etiqueta específica, não prova ausência de conteúdo incidental; exigir auditoria individual."
+    },
+    {
+      "codigo": "LEG_CNE_7_2025",
+      "tema": "Educação integral em tempo integral",
+      "ambito": "nacional",
+      "cargos": [
+        "DIR",
+        "SUP"
+      ],
+      "questoes_AB_indexadas": 0,
+      "limite": "Ausência de etiqueta específica, não prova ausência de conteúdo incidental; exigir auditoria individual."
+    },
+    {
+      "codigo": "LEG_14533",
+      "tema": "Política Nacional de Educação Digital",
+      "ambito": "nacional",
+      "cargos": [
+        "DIR",
+        "SUP"
+      ],
+      "questoes_AB_indexadas": 0,
+      "limite": "Ausência de etiqueta específica, não prova ausência de conteúdo incidental; exigir auditoria individual."
+    },
+    {
+      "codigo": "LIM_CURRICULO",
+      "tema": "Currículo da rede municipal",
+      "ambito": "municipal",
+      "cargos": [
+        "DIR",
+        "SUP"
+      ],
+      "questoes_AB_indexadas": 0,
+      "limite": "Ausência de etiqueta específica, não prova ausência de conteúdo incidental; exigir auditoria individual."
+    },
+    {
+      "codigo": "LIM_LEI_7257_2025",
+      "tema": "Plano Municipal pela Primeira Infância",
+      "ambito": "municipal",
+      "cargos": [
+        "DIR",
+        "SUP"
+      ],
+      "questoes_AB_indexadas": 0,
+      "limite": "Ausência de etiqueta específica, não prova ausência de conteúdo incidental; exigir auditoria individual."
+    },
+    {
+      "codigo": "LIM_CME_1_2010",
+      "tema": "Relações étnico-raciais",
+      "ambito": "municipal",
+      "cargos": [
+        "DIR",
+        "SUP"
+      ],
+      "questoes_AB_indexadas": 0,
+      "limite": "Ausência de etiqueta específica, não prova ausência de conteúdo incidental; exigir auditoria individual."
+    },
+    {
+      "codigo": "LIM_CME_2_2016",
+      "tema": "Diretrizes curriculares municipais",
+      "ambito": "municipal",
+      "cargos": [
+        "DIR",
+        "SUP"
+      ],
+      "questoes_AB_indexadas": 0,
+      "limite": "Ausência de etiqueta específica, não prova ausência de conteúdo incidental; exigir auditoria individual."
+    },
+    {
+      "codigo": "LIM_LC_461_2009",
+      "tema": "Estatuto do Magistério",
+      "ambito": "municipal",
+      "cargos": [
+        "DIR",
+        "SUP"
+      ],
+      "questoes_AB_indexadas": 0,
+      "limite": "Ausência de etiqueta específica, não prova ausência de conteúdo incidental; exigir auditoria individual."
+    },
+    {
+      "codigo": "LIM_DEC_134_2022",
+      "tema": "Estatuto da APM",
+      "ambito": "municipal",
+      "cargos": [
+        "DIR",
+        "SUP"
+      ],
+      "questoes_AB_indexadas": 0,
+      "limite": "Ausência de etiqueta específica, não prova ausência de conteúdo incidental; exigir auditoria individual."
+    },
+    {
+      "codigo": "LIM_DEC_118_2024",
+      "tema": "Educação integral em tempo integral",
+      "ambito": "municipal",
+      "cargos": [
+        "DIR",
+        "SUP"
+      ],
+      "questoes_AB_indexadas": 0,
+      "limite": "Ausência de etiqueta específica, não prova ausência de conteúdo incidental; exigir auditoria individual."
+    },
+    {
+      "codigo": "LIM_LC_41_1991",
+      "tema": "Estatuto dos Funcionários Públicos",
+      "ambito": "municipal",
+      "cargos": [
+        "DIR",
+        "SUP"
+      ],
+      "questoes_AB_indexadas": 0,
+      "limite": "Ausência de etiqueta específica, não prova ausência de conteúdo incidental; exigir auditoria individual."
+    },
+    {
+      "codigo": "LIM_SME_1_2020",
+      "tema": "Conselho de Escola",
+      "ambito": "municipal",
+      "cargos": [
+        "DIR",
+        "SUP"
+      ],
+      "questoes_AB_indexadas": 0,
+      "limite": "Ausência de etiqueta específica, não prova ausência de conteúdo incidental; exigir auditoria individual."
+    },
+    {
+      "codigo": "LIM_SME_3_2026",
+      "tema": "Organização curricular",
+      "ambito": "municipal",
+      "cargos": [
+        "DIR",
+        "SUP"
+      ],
+      "questoes_AB_indexadas": 0,
+      "limite": "Ausência de etiqueta específica, não prova ausência de conteúdo incidental; exigir auditoria individual."
+    },
+    {
+      "codigo": "LIM_DEC_23_2026",
+      "tema": "Educação especial",
+      "ambito": "municipal",
+      "cargos": [
+        "DIR",
+        "SUP"
+      ],
+      "questoes_AB_indexadas": 0,
+      "limite": "Ausência de etiqueta específica, não prova ausência de conteúdo incidental; exigir auditoria individual."
+    },
+    {
+      "codigo": "LIM_CME_SME_1_2025",
+      "tema": "Qualidade e equidade na educação infantil",
+      "ambito": "municipal",
+      "cargos": [
+        "DIR",
+        "SUP"
+      ],
+      "questoes_AB_indexadas": 0,
+      "limite": "Ausência de etiqueta específica, não prova ausência de conteúdo incidental; exigir auditoria individual."
+    }
+  ],
+  "nota": "CE16 primeiros socorros não se confunde com LEG_13722; este último tem 6 questões A/B. Zero CE16 não significa zero questões de primeiros socorros. A matriz não foi exaurida por subitem, obra ou artigo; lacunas específicas devem ser conferidas em conteúdo integral."
+}

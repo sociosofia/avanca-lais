@@ -61,3 +61,7 @@ Base v0.5 preservada sem alteração. Nenhuma nova questão incorporada nesta au
 - Q21–25 de Informática não recuperadas e não importadas; específicos não triados. Cadernos de Bibliotecário e Arquiteto de Vargem Grande Paulista, Farmacêutico de Itapecerica e Professor I de Cachoeira Paulista não puderam ser examinados nesta rodada.
 - [Repetições 007-B](data/repeticoes_lote_007B.json): variante interconcurso sobre agente da passiva (VGP Q08 e CAP Q07), ambas preservadas; dois agrupamentos de respostas coincidentes em Cachoeira Paulista, ainda não confirmados por confronto dos textos.
 - 675 registros anteriores preservados, identificadores e CSV conferidos. Sem transcrição integral nem auditoria cruzada exaustiva. Priorizar recuperação dos PDFs pendentes e preparação de corpus utilizável, sobretudo Informática.
+
+## Lote visual 001 — material local
+
+[Manifesto de integração](data/lote_visual_001_manifesto.json): 200 ocorrências de sete cadernos, incluindo 20 registros já existentes na v0.7; 25 duplicidades confirmadas de Itapecerica, 25 candidatos de Controlador Interno de Vargem Grande Paulista retidos para comparação com Assistente Social. 131 registros A/B no lote local, 43 R, 25 D, 1 X. Os recortes, textos-base numerados e visualizador de treino foram entregues localmente; não estão publicados no repositório público. Classificação, numeração e recortes preliminares; não somar o manifesto ao total da v0.7 antes de reconciliar IDs e auditoria.

@@ -39,3 +39,16 @@ Provas complementares de professores e de outros cargos superiores, priorizando 
 - [Protocolo de admissão e repetição](docs/protocolo_admissao_e_repeticoes.md): filtro por escolaridade, conteúdo programático, exigência observada e gabarito; piloto Itapecerica da Serra com programas gerais idênticos, importação pendente de inspeção dos itens.
 
 Base v0.5 preservada sem alteração. Nenhuma nova questão incorporada nesta auditoria.
+
+## Banco v0.6.0 — lote complementar 007-A
+
+- [Banco JSON v0.6](data/avanca_lais_banco_v0.6.json) e [índice CSV v0.6](data/avanca_lais_indice_v0.6.csv).
+- 675 registros, 14 cadernos de origem; A=378, B=90, R=122, P=12, X=6, D=67.
+- 468 registros A/B (LP=96, MRL=90, INF=39, CE=243); deduplicação cruzada pendente.
+- Vargem Grande Paulista 01/2026, Assistente Social (superior): programa geral coincidente, Q01–25 conferidas visualmente, gabarito definitivo de 28/09/2026. 18 A, 2 B, 5 R. Q26–50 não importadas nem triadas individualmente.
+- Novo campo `exigencia_cognitiva`: reconhecimento/aplicação/análise, qualitativo, não medida de dificuldade. Ausente nos lotes anteriores, ainda não avaliados por essa rubrica.
+- [Portal Vargem Grande Paulista](https://avancasp.selecao.net.br/informacoes/241/): gabaritos Q01–25 coincidentes entre Assistente Social/Controlador Interno/Enfermeiro Sanitarista e, separadamente, Arquiteto/Bibliotecário/Educador em Saúde Pública/Enfermeiro. São candidatos a blocos compartilhados; não duplicatas confirmadas. Bibliotecário e Controlador ainda não importados.
+- [Portal Cachoeira Paulista](https://avancasp.selecao.net.br/informacoes/280/): programa superior compatível nas três disciplinas gerais (edital pp. 37–38), Professor I e Assistente Social são candidatos; PDFs dos cadernos excederam limite de recuperação. Gabarito definitivo 23/11/2026. Nenhum item importado.
+- [Portal Itapecerica da Serra](https://avancasp.selecao.net.br/informacoes/266/): cadernos de Arquiteto e Enfermeiro excederam limite de recuperação. Gabarito definitivo disponível. Nenhum item importado nesta rodada.
+
+650 registros anteriores preservados; índice e JSON verificados. Não há transcrição integral nem conclusão de deduplicação interconcurso. Priorizar segundo bloco superior de Vargem Grande Paulista e novos concursos compatíveis com PDFs recuperáveis.

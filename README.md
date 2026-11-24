@@ -92,3 +92,7 @@ Base v0.5 preservada sem alteração. Nenhuma nova questão incorporada nesta au
 - [Requisitos do aplicativo e próximos tratamentos](docs/requisitos_app_e_engenharia_reversa.md): interface simples sem status internos ou filtros de concurso, simulado padrão, treino por áreas/assuntos, desempenho, copiar questão para Sofia, dicas fundamentadas.
 
 Nenhum registro da base v0.11 alterado. Frequências preliminares; auditoria de taxonomia, aderência por cargo, formatos, gabaritos problemáticos e duplicidade interconcurso ainda necessária.
+
+## Banco v0.12 — primeira auditoria de conteúdo
+
+[JSON](data/avanca_lais_banco_v0.12.json) · [CSV](data/avanca_lais_indice_v0.12.csv) · [Matriz retificada de Limeira](analysis/matriz_limeira_v0.1.json). 36 itens visualmente examinados; 24 R→A, 3 R→X, 4 A→X, 5 R→R. 875 IDs preservados e gabaritos inalterados. 535 A, 94 B, 97 R, 135 D e 14 X; 629 A/B preliminares (LP=158, MRL=141, INF=66, CE=264). Tags secundárias manuais nos 36 itens, não em todo o banco. Retificação I remove Decreto 11.556/2023 para ambos; artigos 2, 3 e 5 do ECA fora dos intervalos expressos; quatro questões da Lei Lucas recuperadas após cotejo normativo. Matriz de lacunas por etiquetas, não auditoria exaustiva. Pacote visual v0.11 e interface permanecem inalterados nesta rodada; não publicar como treino final sem sincronização. Próximos: 97 R, revisão dos A/B e detalhamento das lacunas locais e novas normas.

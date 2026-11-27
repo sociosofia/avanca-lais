@@ -104,3 +104,7 @@ Nenhum registro da base v0.11 alterado. Frequências preliminares; auditoria de 
 ## Avança Laís — entrega v1.0 / banco v0.14
 
 [Banco canônico](data/avanca_lais_banco_v0.14.json). 649 itens no catálogo de entrega (158 LP, 143 MRL, 66 INF, 282 CE); 74 R, 135 D e 17 X retidos. Mantidos os 875 IDs e gabaritos. Pacote local `Avanca_Lais.zip`: `index.html`, `data.json` e 922 imagens WebP, com verificação de integridade. SHA-256 do ZIP verificado: `487e5f560d7182fa8e2d6f73a7217ff09fc6a2f290c5a5d97347fa658521f779`. Interface e imagens ainda não enviadas ao GitHub: a transferência de arquivos binários do ambiente local requer Git ou outro cliente autorizado. Para publicação, extrair o pacote, copiar `index.html`, `data.json` e `img/` para a raiz de `main`, e habilitar GitHub Pages em Settings → Pages → Deploy from a branch → main / (root). Não usar o HTML autônomo superior a 100 MB. A URL esperada é https://sociosofia.github.io/avanca-lais/ (não validada como publicada). O repositório é público: verificar permissões de reprodução das provas antes de disponibilizar os recortes publicamente.
+
+## Legislação municipal — engenharia reversa
+
+[DNA da legislação municipal da Avança SP](analysis/dna_legislacao_municipal.md): nove itens objetivos e uma dissertativa de três concursos; formatos, mecanismos de distratores, limites e protocolo editorial para o módulo complementar de Limeira. Não inclui questões autorais nem altera o catálogo de treino.
